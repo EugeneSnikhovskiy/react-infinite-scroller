@@ -33,7 +33,7 @@
     "url": "https://github.com/CassetteRocks/react-infinite-scroller/issues"
   },
   "peerDependencies": {
-    "prop-types": ">= 15.5.8"
+    "prop-types": ">= 15.5.8",
     "react": ">= 16.0.0"
   },
   "devDependencies": {
